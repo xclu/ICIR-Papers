@@ -1,0 +1,40 @@
+TY  - JOUR
+TI  - An Intra-PAN Mobility Management Scheme for IPv6 over Low-Power Wireless Personal Area Networks
+AD  - Inst. of Inf. Syst., Beijing Jiaotong Univ., Beijing, China
+JO  - Chinese Journal of Electronics
+T3  - Chin. J. Electron. (China)
+A1  - Shang Xiaopu
+A1  - Zhang Runtong
+A1  - Li Xiaolong
+VL  - 23
+IS  - 4
+PY  - 2014/10/
+U1  - 15010695
+SP  - 805
+EP  - 9
+SN  - 1022-4653
+CY  - China
+PB  - Chinese Institute of Electronics
+N2  - This paper proposes an intra-PAN mobility management scheme for IPv6 over Low-power wireless personal area networks (6LoWPAN) on the basis of "network-based" idea. We developed a tree-like network architecture which includes coordinate nodes for packet routing. All of the control messages are designed to transmit in link layer, and the sensor nodes are free to consider care-of address and the mobile nodes are unnecessary to deal with any mobility handoff messages. The simulation results show that this scheme efficiently cuts down the signaling cost and reduces the energy consumed by fixed nodes which can extend the life time of the whole Personal area networks (PAN).
+KW  - electronic messaging
+KW  - IP networks
+KW  - mobile radio
+KW  - mobility management (mobile radio)
+KW  - personal area networks
+KW  - radio links
+KW  - telecommunication network routing
+KW  - telecommunication power management
+KW  - telecommunication signalling
+KW  - wireless sensor networks
+U2  - low-power wireless personal area network packet routing
+U2  - intraPAN mobility management scheme
+U2  - IPv6 energy consumption reduction
+U2  - LoWPAN sensor node
+U2  - tree-like network architecture
+U2  - mobile node link layer
+U2  - mobility handoff message transmission
+U2  - signaling cost
+ER  - 
+
+
+
