@@ -1,0 +1,37 @@
+TY  - JOUR
+N1  - Compilation and indexing terms, Copyright 2016 Elsevier Inc.
+TI  - A Study on an Energy Conservation and Interconnection Scheme between WSN and Internet Based on the 6LoWPAN
+JO  - Mobile Information Systems
+A1  - Zhang, Runtong
+A1  - Chu, Fuzhi
+A1  - Yuan, Quan
+A1  - Dai, Wei
+AD  - Beijing Jiaotong University, Beijing, ChinaVictoria University, Melbourne; VIC, Australia
+VL  - 2015
+PY  - 2015
+U1  - 20151100631601
+SN  - 1574017X
+PB  - IOS Press
+N2  - Wireless sensor network (WSN), which has broad application prospects, consists of small nodes with sensing, computation, and communications capabilities. IPv6 is used over low power WPAN (wireless personal area network) which is run by 6LoWPAN technology on the LoWPAN devices. In order to establish seamless connection of two heterogeneous networks, that is, WSN and IPv6 network, this paper proposes an improved energy conservation and interconnection scheme (ECIS) based on the analysis of the current schemes. Detailed design of each functional component in the new scheme is proposed, and an expansion of the SSCS module in NS2 802.15.4 simulator is examined. Comprehensive experiments on the simulation platform show that the newly proposed scheme is advantageous over existing results. Copyright  2015 Runtong Zhang et al.
+KW  - Wireless sensor networks
+KW  - Energy conservation
+KW  - Heterogeneous networks
+KW  - Internet
+KW  - Internet protocols
+KW  - Low power electronics
+KW  - Personal communication systems
+KW  - Sensor nodes
+U2  - Broad application
+U2  - Communications capability
+U2  - Current schemes
+U2  - Detailed design
+U2  - Functional components
+U2  - Internet based
+U2  - Simulation platform
+U2  - Wireless personal area networks
+DO  - 10.1155/2015/592613
+L2  - http://dx.doi.org/10.1155/2015/592613
+ER  - 
+
+
+

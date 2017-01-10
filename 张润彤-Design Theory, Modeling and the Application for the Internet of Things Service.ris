@@ -1,0 +1,36 @@
+TY  - JOUR
+TI  - Design theory, modelling and the application for the Internet of Things service
+AD  - Inst. of Inf. Syst., Beijing Jiaotong Univ., Beijing, China
+JO  - Enterprise Information Systems
+T3  - Enterp. Inf. Syst. (UK)
+A1  - Xiaopu Shang
+A1  - Runtong Zhang
+A1  - Xiaomin Zhu
+A1  - Quan Zhou
+VL  - 10
+IS  - 3
+PY  - 2016//
+U1  - 15946336
+SP  - 249
+EP  - 67
+SN  - 1751-7575
+CY  - UK
+PB  - Taylor &amp; Francis
+N2  - The Internet of Things (IoT) makes it possible for us to sense the physical world and locate objects in it using the enabling technologies associated with IoT. Compared with traditional information systems, IoT enabling technologies can help acquire real-time data necessary for managing enterprise business process. An IoT system should have an ability beyond integrating enabling technologies and traditional information systems that are only used to access environmental data. This paper begins with a literature review of IoT-related issues and a discussion of the difference between traditional information service and IoT service. Three principles for IoT service design from the perceptive of service classification, coordination and compatibility are proposed. The paper also proposes a utility model for resource allocation in order to improve IoT service performance, and an application involving a cold chain visibility platform is given to illustrate our research.
+KW  - business data processing
+KW  - Internet of Things
+KW  - real-time systems
+U2  - design theory
+U2  - Internet of Things service
+U2  - information systems
+U2  - real-time data
+U2  - enterprise business process
+U2  - IoT service design
+U2  - resource allocation
+U2  - cold chain visibility platform
+DO  - 10.1080/17517575.2015.1075592
+L2  - http://dx.doi.org/10.1080/17517575.2015.1075592
+ER  - 
+
+
+
